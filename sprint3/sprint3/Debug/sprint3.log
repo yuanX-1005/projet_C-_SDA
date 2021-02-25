@@ -1,0 +1,2 @@
+﻿LabyrintheMb.obj : error LNK2005: "void __cdecl afficherSP2(struct Lab &,struct Position &,struct Pile &)" (?afficherSP2@@YAXAAULab@@AAUPosition@@AAUPile@@@Z) déjà défini(e) dans DragonGame.obj
+C:\Projet SDA\sprint3\Debug\sprint3.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
